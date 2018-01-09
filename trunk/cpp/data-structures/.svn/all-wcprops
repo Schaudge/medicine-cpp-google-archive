@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/61/trunk/cpp/data-structures
+END
+cll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/53/trunk/cpp/data-structures/cll.cpp
+END
+dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/54/trunk/cpp/data-structures/dll.cpp
+END
+LinkedList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/61/trunk/cpp/data-structures/LinkedList.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/57/trunk/cpp/data-structures/queue.cpp
+END
+stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/55/trunk/cpp/data-structures/stack.cpp
+END

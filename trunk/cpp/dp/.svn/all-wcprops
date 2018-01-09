@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/72/trunk/cpp/dp
+END
+CoinChange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/68/trunk/cpp/dp/CoinChange.cpp
+END
+LongestNonDecreasingSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/69/trunk/cpp/dp/LongestNonDecreasingSequence.cpp
+END
+MaximumSubsequenceSum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/70/trunk/cpp/dp/MaximumSubsequenceSum.cpp
+END
